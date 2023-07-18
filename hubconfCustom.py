@@ -5,8 +5,6 @@ Modifications:
 1. Added a function to detect PPE violation in a video file or video stream
 2. Added a function to send email alert with attached image
 
-Modifications made by Anubhav Patrick
-Date: 04/02/2023
 '''
 
 import threading
