@@ -1,4 +1,5 @@
-'''A Flask application to run the YOLOv7 PPE violation model on a video file or ip cam stream
+'''
+A Flask application to run the YOLOv7 PPE violation model on a video file or ip cam stream
 '''
 
 import os.path
