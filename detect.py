@@ -31,7 +31,7 @@ def toggle_email_allowed():
     is_email_allowed = True
 
 
-def violation_alert_generator(im0, receipient='anubhav.patrick@giindia.com', subject='PPE Violation Detected at ABESIT', message_text='This is a test email. A PPE violation is detected'):
+def violation_alert_generator(im0, receipient='prakharsingh2018@gmail.com', subject='PPE Violation Detected', message_text='This is a test email. A PPE violation is detected'):
     '''This function will send an email with attached alert image 
     
     Parameters:
