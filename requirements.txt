@@ -46,3 +46,8 @@ Flask-Bootstrap
 
 # Url validation
 validators>=0.20.0
+
+#Gmail apis
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
